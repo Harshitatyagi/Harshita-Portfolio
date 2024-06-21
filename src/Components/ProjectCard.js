@@ -29,9 +29,11 @@ const ProjectCard = ({projectName,projectImage}) => {
     whileInView={{opacity: 1}}
     transition={{ duration: 0.8 }}
     className='projectCard'>
-      <a href={desc[projectName + 'Website']} target="_blank">
+   
+
+      <a href={desc[projectName + 'Website']} target="_blank"  rel="noopener noreferrer">
       <div className='projectImageContainer'>
-        <img src={projectImage} />
+      <img src={projectImage} alt={`${projectName} Image`} />
         <AiOutlineEye className='viewIcon'/>
       </div>
       <div className='projectInfo'>
