@@ -33,12 +33,12 @@ const ProjectCard = ({projectName,projectImage}) => {
 
       <a href={desc[projectName + 'Website']} target="_blank"  rel="noopener noreferrer">
       <div className='projectImageContainer'>
-      <img src={projectImage} alt={`${projectName} Image`} />
+      <img src={projectImage } alt="project-view"/>
         <AiOutlineEye className='viewIcon'/>
       </div>
       <div className='projectInfo'>
         <h2>{projectName}</h2>
-        <a href={desc[projectName + 'Github']} target="_blank"><FaGithubAlt className='githubIcon'/></a>
+        <a href={desc[projectName + 'Github']} target="_blank" rel="noopener noreferrer"><FaGithubAlt className='githubIcon'/></a>
       </div>
       <p>{desc[projectName + 'Desc']}</p>
       </a>

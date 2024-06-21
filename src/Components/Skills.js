@@ -14,7 +14,7 @@ import {
   SiCplusplus,
   SiPostman,
 } from "react-icons/si";
-import { FaBootstrap, FaGitAlt, FaGithub, FaFigma } from "react-icons/fa";
+import { FaGitAlt, FaGithub} from "react-icons/fa";
 
 const SkillBox = ({ Reacticon, title }) => {
   return (
@@ -90,6 +90,5 @@ const Skills = () => {
     </div>
   );
 };
-//<SkillBox Reacticon={FaBootstrap} title="Bootstrap" />
-//<SkillBox Reacticon={FaFigma} title="Figma" />
+
 export default Skills;

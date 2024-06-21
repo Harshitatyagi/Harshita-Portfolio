@@ -13,8 +13,8 @@ const Footer = () => {
         <IconContext.Provider value={{ className: 'footerIcons' }}>
             <a href="mailto:harshitatyagi242"><AiFillMail /></a>
             <a href="https://leetcode.com/u/harshitatyagi/"><TbBrandLeetcode /></a>
-            <a href="https://github.com/Harshitatyagi" target="_blank"><FaGithubAlt/></a>
-            <a href="https://www.linkedin.com/in/harshita-tyagi-4311a7229/" target="_blank"><AiFillLinkedin/></a>
+            <a href="https://github.com/Harshitatyagi" target="_blank"  rel="noopener noreferrer"><FaGithubAlt/></a>
+            <a href="https://www.linkedin.com/in/harshita-tyagi-4311a7229/" target="_blank"  rel="noopener noreferrer"><AiFillLinkedin/></a>
         </IconContext.Provider>
         </div>
     </div>
