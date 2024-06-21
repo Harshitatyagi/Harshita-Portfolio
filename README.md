@@ -1,5 +1,5 @@
 <h1 align="center">
-  //<a href="https://harshita.netlify.app/"> Harshita Portfolio</a>
+  <a href="https://harshita.netlify.app/"> Harshita Portfolio</a>
 </h1>
 
 ## My Portfolio
@@ -20,12 +20,6 @@ Hello! I'm a final-year B.Tech student in Electrical Engineering at NIT Raipur, 
 - [react-pdf](https://www.npmjs.com/package/react-pdf)
 - [react-parallax-tilt](https://www.npmjs.com/package/react-parallax-tilt)
 
-## Contributing
-
-Don't forget to star 🌟 the repository if you find it helpful.  
-Feel free to modify the code and make it your own (with proper credits).   
-If you find any 🐛 or issues, feel free to highlight.
-
----
+Thanks for visting my portfolio
 
 
