@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://anushaka.netlify.app/">Anushaka Portfolio</a>
+  //<a href="https://harshita.netlify.app/"> Harshita Portfolio</a>
 </h1>
 
-## AMy Portfolio
+## My Portfolio
 Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a web developer specializing in React.js.
 ## About Me
 Hello! I'm a final-year B.Tech student in Electrical Engineering at NIT Raipur, Chhattisgarh. My journey in web development began out of curiosity and has grown into a passionate pursuit. I enjoy creating user-centric digital experiences using modern web technologies. This portfolio showcases my work, skills, and projects.
