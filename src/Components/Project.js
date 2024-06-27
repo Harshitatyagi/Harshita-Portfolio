@@ -21,9 +21,12 @@ const Project = () => {
     </h3>
     </motion.div>
     <div className='projectCardContainer'>
+                                  
       <ProjectCard projectName="Memorify" projectImage={memorify}/>
+       <ProjectCard projectName="DijkstraAlgorithm" projectImage={dijkstra}/>
       <ProjectCard projectName="ToDoApp"  projectImage={Todo}/>
-      <ProjectCard projectName="DijkstraAlgorithm" projectImage={dijkstra}/>
+      <ProjectCard projectName="Blog-Website" projectImage={blogapp}/>
+      <ProjectCard projectName="Tour-With-Us" projectImage={tour}/>
     </div>
     </div>
   )
