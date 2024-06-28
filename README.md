@@ -1,25 +1,31 @@
-<h1 align="center">
-  <a href="https://harshita.netlify.app/"> Harshita Portfolio</a>
-</h1>
+# Welcome to My Portfolio 🌟
 
-## My Portfolio
-Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a web developer specializing in React.js.
-## About Me
-Hello! I'm a final-year B.Tech student in Electrical Engineering at NIT Raipur, Chhattisgarh. My journey in web development began out of curiosity and has grown into a passionate pursuit. I enjoy creating user-centric digital experiences using modern web technologies. This portfolio showcases my work, skills, and projects.
-#### Technologies used:
+## [Harshita Portfolio](https://harshita11portfolio.netlify.app/) 🌐
 
-- React.js
-- Git
-- npm packages
-- netlify
+### My Portfolio 📂
+Welcome to my digital realm! This repository is a testament to my journey as a web developer, showcasing my skills, projects, and experiences, with a specialization in React.js. Dive in to explore the innovative solutions I've crafted and the meticulous attention to detail that defines my work.
 
-#### npm packages used:
+### About Me 👩‍💻
+Hello there! I'm Harshita, a final-year B.Tech student majoring in Electrical Engineering at NIT Raipur, Chhattisgarh. My foray into the world of web development was sparked by curiosity and has since blossomed into a fervent passion. I thrive on creating user-centric digital experiences, leveraging modern web technologies to bring ideas to life. This portfolio is a curated collection of my projects, skills, and the evolution of my web development journey.
 
-- [react-framer-motion](https://www.npmjs.com/package/framer-motion)
-- [react-icons](https://www.npmjs.com/package/react-icons)
-- [react-pdf](https://www.npmjs.com/package/react-pdf)
-- [react-parallax-tilt](https://www.npmjs.com/package/react-parallax-tilt)
+### Technologies Used 🛠️
+In my projects, I employ a variety of cutting-edge technologies and tools, including but not limited to:
 
-Thanks for visting my portfolio
+- **Frontend**: React.js, HTML5, CSS3, JavaScript ⚛️
+- **Backend**: Node.js, Express.js 🖥️
+- **Database**: MongoDB, SQL 💾
+- **Version Control**: Git, GitHub 🗂️
+
+### Skills 🧩
+As a dedicated MERN stack developer, I have honed my expertise in:
+- Crafting dynamic and responsive user interfaces with React.js 🎨
+- Building robust server-side applications using Node.js and Express.js 🔧
+- Designing and managing databases with MongoDB and SQL 🗄️
+- Implementing secure authentication and authorization mechanisms 🔒
+- Utilizing version control systems for efficient project management 🛠️
+
+Thank you for visiting my portfolio. Happy exploring! 🎉
+
+
 
 
