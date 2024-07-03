@@ -5,34 +5,36 @@ import { FaGithubAlt } from 'react-icons/fa'
 
 const ProjectCard = ({projectName,projectImage}) => {
   const desc = {
-    DoubtSmasherDesc:
-    DoubtSmasherGithub:
-    DoubtSmasherWebsite:
+    
+    Doubt-SmasherDesc:"Doubt-Smasher is an interactive platform designed to help users clarify and resolve their doubts. 
+                          It is place where they can engage themselves in discussions to enhance learning and understanding.
+                               Built for the students of our college"
+    Doubt-SmasherGithub:"https://doubtsmasher.netlify.app/"
+    Doubt-SmasherWebsite:"https://github.com/Harshitatyagi/DoubtSmasher_frontend"
   
-    MemorifyDesc : "",
+     MemorifyDesc : "Memorify is a sleek MERN app designed for sharing your memories. Users can post photos with captions, like, and edit their posts seamlessly. 
+                       It's the perfect platform to capture and cherish your moments.",
      MemorifyGithub : "https://github.com/Harshitatyagi/my-memories-client",
      MemorifyWebsite : "https://harshitamemories.netlify.app/",
 
-    dijkstraAlgorithmDesc:" ",
-    dijkstraAlgorithmWebsite:"https://github.com/Harshitatyagi/dijkstraAlgorithm",
-     dijkstraAlgorithmGithub:"https://dijkstra-algorithm11.netlify.app/",
+    Shortest PathfinderDesc:"Shortest Pathfinder is an efficient tool that implements Dijkstra's algorithm to find the shortest paths in graphs.
+                             It's an ideal solution for visualizing and understanding pathfinding for various applications. ",
+    Shortest PathfinderWebsite:"https://github.com/Harshitatyagi/dijkstraAlgorithm",
+    Shortest PathfinderGithub:"https://dijkstra-algorithm11.netlify.app/",
     
-    PortfolioDesc : "Dynamic personal portfolio showcasing skills and projects, built with React.js for a captivating and interactive web experience.",
-    PortfolioGithub : "https://github.com/Harshitatyagi/Harshita-Portfolio",
-    PortfolioWebsite : "https://harshita11portfolio.netlify.app/",
+   My PortfolioDesc : "Dynamic personal portfolio showcasing skills and projects,
+                         built with React.js for a captivating and interactive web experience.",
+    My PortfolioGithub : "https://github.com/Harshitatyagi/Harshita-Portfolio",
+    My PortfolioWebsite : "https://harshita11portfolio.netlify.app/",
     
-    reacttodoappDesc : "A simple TodoApp to keep along your daily schedule on track.", 
-   reacttodoappWebsite : "https://harshita-todo.netlify.app/",
-    reacttodoappGithub :  "https://github.com/Harshitatyagi/react-todo-app", 
+    To-Do AppDesc : "To-Do App is a straightforward tool designed to help you manage your daily tasks effectively. Built using React.js,
+                            it ensures a smooth and efficient way to keep your schedule on track.", 
+   To-Do AppWebsite : "https://harshita-todo.netlify.app/",
+    To-Do AppGithub :  "https://github.com/Harshitatyagi/react-todo-app", 
 
-    
-     blogappDesc : "A Blog website for technical articles developed using react", 
-   blogappWebsite : "https://blogreact11.netlify.app/",
-    blogappGithub :  "https://github.com/Harshitatyagi/blog_react_app", 
-
-      tourDesc : "A simple clone of Google keep made using React.js and react-props", 
-   tourWebsite : "https://tourism11react.netlify.app",
-    tourGithub :  "https://github.com/Harshitatyagi/Tourism_cards", 
+      Tour PlansDesc : "A Tour plan App created using React.js which has tours cards with details of locations to visit", 
+   Tour PlansWebsite : "https://tourism11react.netlify.app",
+    Tour PlansGithub :  "https://github.com/Harshitatyagi/Tourism_cards", 
 
     
   }
