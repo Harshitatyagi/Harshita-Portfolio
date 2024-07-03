@@ -5,9 +5,12 @@ import ProjectCard from "./ProjectCard"
 import memorify from  "../Images/memorify.png"
 import Todo from "../Images/Todo.png"
 import dijkstra from "../Images/dijkstra.png"
-//import wiggles from "../Images/wiggles.png"
-//import keeper from "../Images/keeper.png"
-//<ProjectCard projectName="mymemoriesclient" projectImage={mymemoriesclient}/>
+import doubt from "../Images/doubt.png"
+import portfolio from "../Images/portfolio.png"
+import tour from "../Images/tour.png"
+
+
+
 const Project = () => {
   const projectHeading="Projects";
   return (
@@ -21,18 +24,16 @@ const Project = () => {
     </h3>
     </motion.div>
     <div className='projectCardContainer'>
-                                  
+      <ProjectCard projectName="Doubt-Smasher" projectImage={doubt}/>          
       <ProjectCard projectName="Memorify" projectImage={memorify}/>
-       <ProjectCard projectName="DijkstraAlgorithm" projectImage={dijkstra}/>
-      <ProjectCard projectName="ToDoApp"  projectImage={Todo}/>
-      <ProjectCard projectName="blogapp" projectImage={blogapp}/>
-      <ProjectCard projectName="tour" projectImage={tour}/>
+       <ProjectCard projectName="Shortest Pathfinder" projectImage={dijkstra}/>
+      <ProjectCard projectName="To-Do App"  projectImage={todo}/>
+      <ProjectCard projectName="My Portfolio" projectImage={portfolio}/>
+      <ProjectCard projectName="Tour Plans" projectImage={tour}/>
     </div>
     </div>
   )
 }
 
 export default Project
- //  <ProjectCard projectName="Portfolio"/>
 
-// 
