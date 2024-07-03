@@ -9,8 +9,8 @@ const ProjectCard = ({projectName,projectImage}) => {
     Doubt-SmasherDesc:"Doubt-Smasher is an interactive platform designed to help users clarify and resolve their doubts. 
                           It is place where they can engage themselves in discussions to enhance learning and understanding.
                                Built for the students of our college"
-    Doubt-SmasherGithub:"https://doubtsmasher.netlify.app/"
-    Doubt-SmasherWebsite:"https://github.com/Harshitatyagi/DoubtSmasher_frontend"
+    Doubt-SmasherGithub: "https://doubtsmasher.netlify.app/"
+    Doubt-SmasherWebsite: "https://github.com/Harshitatyagi/DoubtSmasher_frontend"
   
      MemorifyDesc : "Memorify is a sleek MERN app designed for sharing your memories. Users can post photos with captions, like, and edit their posts seamlessly. 
                        It's the perfect platform to capture and cherish your moments.",
