@@ -13,8 +13,12 @@ import {
   SiVisualstudio,
   SiCplusplus,
   SiPostman,
+  SiMongodb,
+  SiNetlify,
+  SiRender,
+  SiMysql,
 } from "react-icons/si";
-import { FaGitAlt, FaGithub} from "react-icons/fa";
+import { FaGitAlt, FaGithub } from "react-icons/fa";
 
 const SkillBox = ({ Reacticon, title }) => {
   return (
@@ -54,15 +58,15 @@ const Skills = () => {
         <h3>
           {skillsHeading
             .split("")
-            .map((char) =>
+            .map((char, index) =>
               char === " " ? (
                 windowWidth <= 400 ? (
-                  <br />
+                  <br key={index} />
                 ) : (
                   " "
                 )
               ) : (
-                <span>{char}</span>
+                <span key={index}>{char}</span>
               )
             )}
         </h3>
@@ -80,15 +84,19 @@ const Skills = () => {
         <SkillBox Reacticon={FaGitAlt} title="Git" />
         <SkillBox Reacticon={FaGithub} title="Github" />
         <SkillBox Reacticon={IoLogoCss3} title="CSS3" />
-        
         <SkillBox Reacticon={IoLogoHtml5} title="HTML5" />
-        
-        <SkillBox Reacticon={SiVisualstudio} title="Visual studio code" />
+        <SkillBox Reacticon={SiVisualstudio} title="Visual Studio Code" />
         <SkillBox Reacticon={SiCplusplus} title="C++" />
         <SkillBox Reacticon={SiPostman} title="Postman" />
+        <SkillBox Reacticon={SiMongodb} title="MongoDB" />
+        <SkillBox Reacticon={SiMysql} title="MySQL" />
+        <SkillBox Reacticon={SiNetlify} title="Netlify" />
+        <SkillBox Reacticon={SiRender} title="Render" />
       </motion.div>
     </div>
   );
 };
 
 export default Skills;
+
+

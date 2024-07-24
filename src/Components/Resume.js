@@ -3,7 +3,7 @@ import "../Css/Resume.css"
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
-import Resumepdf from "../HarshitaResume.pdf"
+import Resumepdf from "../Harshita_Tyagi_Resume.pdf"
 import { BsDownload } from 'react-icons/bs';
 pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.js`;
 
