@@ -34,7 +34,11 @@ const About = () => {
         className='aboutSectionText'
         >
         
+<<<<<<< HEAD
           I'm a final year student pursuing <span className='highlightText'>B.Tech in Electrical Engineering</span> from NIT Raipur,Chhatissgarh. 
+=======
+          I'm a final year student pursuing <span className='highlightText'>B.Tech in Electrical Engineering</span> from NIT Raipur, Chhatissgarh. 
+>>>>>>> f75bb6acba75f5af2f675a2c7a1009ac12a197f8
           My journey in web development began out of a curiosity to understand the digital world better and quickly evolved into a passion. 
           Specializing in  <span className='highlightText'>React.js</span>, I enjoy creating responsive, user-centric web applications that provide seamless experiences.
 
