@@ -1,6 +1,6 @@
 # Welcome to My Portfolio 🌟
 
-## [Harshita Portfolio]((https://harshita1102portfolio.netlify.app/)) 🌐
+## [Harshita Portfolio](https://harshita1102portfolio.netlify.app/) 🌐
 
 ### My Portfolio 📂
 Welcome to my digital realm! This repository is a testament to my journey as a web developer, showcasing my skills, projects, and experiences, with a specialization in React.js. Dive in to explore the innovative solutions I've crafted and the meticulous attention to detail that defines my work.
